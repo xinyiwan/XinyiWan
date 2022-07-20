@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am doing my master study in Medical Engineering at the Royal institute of Technology (KTH) in Stockholm 🇸🇪. I focus on the magnetic resonance imaging (MRI) study, especially fMRI and dMRI. Currently, I work as an research assistant at SUBIC (🧠 Stockholm University Brain Imaging Center), and working on a model-based physiological noise correction tool of fMRI.
+I am doing my master study in Medical Engineering at the Royal institute of Technology (KTH) in Stockholm 🇸🇪. 
+I focus on the magnetic resonance imaging (MRI) study, especially fMRI and dMRI. Currently, I work as an research assistant at SUBIC (🧠 Stockholm University Brain Imaging Center), and working on a model-based physiological noise correction tool of fMRI.
 
 
 🔭 Projects & Interest 🌱
